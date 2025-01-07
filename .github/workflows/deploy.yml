@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 
 env:
-  PROJECT_ID: your-project-id
+  PROJECT_ID: ai-email-writer-447101
   REGION: us-central1
   SERVICE_NAME: email-assistant-backend
 
